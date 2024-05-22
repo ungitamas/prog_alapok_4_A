@@ -13,6 +13,7 @@
     border-radius: 15px;
     margin-top: 30px;
 	width: 100%;
+    border: 5px white solid;
 }
 
 .icon
@@ -33,4 +34,31 @@ filter: drop-shadow(0px 0px 15px orange);
 {
     text-align: center;
 }
+body{
+    background-color: #f1fbff;
+    color: #40409b;
+    padding: 20px 0 ;
+}
+
+.bal{   
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    padding: 20px;
+    background-color: #99cde2;
+
+}
+.minuszmargo{
+    margin-top: -60px;
+}
+.fk{
+    font-weight: bold;
+}
+.sorkizart{
+    text-align: justify;
+}
+#cím{
+    margin-bottom: 50px;
+}
+
 
